@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "name": "temp-smashingnyc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sw-yx/smashingconf-ny-2019",
+  "author": "sw-yx <swyx@dontemail.me>",
+  "license": "MIT"
+}
